@@ -2,9 +2,15 @@ eSudoku 0.1.0 By AJWillia.ms.
 
 eSudoku is a high speed sudoku solver
 
+UIs are available for OSX and enlightenment.
+
+* Enlightenment UI should build automatically.
+* OSX project is in src/osx/
+
 Requirements:
+autotools etc
 
 Optional:
-ETK Enhance
+OSX ETK Enhance
 
 eSudoku is distributed under the GNU General Public License - see gpl.txt
