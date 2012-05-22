@@ -18,5 +18,7 @@ src/Makefile
 src/Makefile.in
 src/*.o
 src/esudoku
+src/osx/eSudoku.xcodeproj/project.xcworkspace/
+src/osx/eSudoku.xcodeproj/xcuserdata/
 stamp-h1
 
